@@ -9,11 +9,9 @@
 
 .menu-item {
 	text-align: center;
-	background-color: #dde5ce;	
-}
-#collapsable-nav {
-	background-color: #dde5ce;
-}
+/*	background-color: #dde5ce;	
+*/}
+
 
 .item-heading {
 	text-align:  center;
@@ -62,6 +60,20 @@
 .navbar-header button.navbar-toggle {
   clear: both;
   margin:-15px 10px 15px 10px;
+}
+
+
+#collapsable-nav {
+  border: none;
+}
+
+
+@media (max-width: 767px) {
+  #collapsable-nav {
+    border: none;
+    background-color: #dde5ce;
+  }
+
 }
 
 
