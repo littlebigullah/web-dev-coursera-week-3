@@ -1,0 +1,67 @@
+.row {
+  margin-bottom: 15px;
+}
+.row > div {
+  border: 2px solid red;
+  background-color: gray;
+}
+
+
+.menu-item {
+	text-align: center;
+	background-color: #dde5ce;	
+}
+#collapsable-nav {
+	background-color: #dde5ce;
+}
+
+.item-heading {
+	text-align:  center;
+	padding-top: 10px;
+}
+
+.chicken-wrapper {
+	background-color: #83b5f7;
+	
+}
+
+.col-xs-12 {
+	padding: 10px;
+	margin: 10px auto 10px auto;
+
+}
+
+.beef-wrapper {
+	background-color: #cbdbef	
+}
+
+.sushi-wrapper {
+	background-color: #647993	
+}
+
+.chicken-content {
+	padding: 20px;
+}
+
+.beef-content {
+	padding: 20px;
+}
+
+.sushi-content {
+	padding: 20px;
+}
+
+.navbar-brand h1 { /* Star-K */
+  vertical-align: middle;
+}
+
+.navbar-header {
+	height: 100px;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin:-15px 10px 15px 10px;
+}
+
+
